@@ -1,4 +1,6 @@
 {
+  "posts": [
+   {
   "user": {
     "user_id": 0,
     "passportSeries": "string",
@@ -20,3 +22,9 @@
     "issueDocDate": "string",
     "expiredDocDate": "string"
   }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 }
+  ],
+  "profile": { "name": "typicode" }
+}
