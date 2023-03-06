@@ -1,6 +1,6 @@
 {
   "posts": [
-   {"id": 1{
+   {
   "user": {
     "user_id": 0,
     "passportSeries": "string",
@@ -22,14 +22,8 @@
     "issueDocDate": "string",
     "expiredDocDate": "string"
   }
-   }}
-{"id": 2{
-  "user": {
-    "token": "string",
-    "user_id": 0,
-    "pinfl": "string"
-}
-  }}
+   }
+
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 }
