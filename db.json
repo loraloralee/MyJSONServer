@@ -1,8 +1,5 @@
-
-{
-  "user": {
-    "token": "",
-    "user_id":0 ,
-    "pinfl": ""
-  }
-}    
+"user": {
+    "token": "string",
+    "user_id": 0,
+    "pinfl": "string"
+  }  
