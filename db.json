@@ -1,4 +1,5 @@
-"user": {
+{
+  "user": {
     "token": "string",
     "user_id": 0,
     "pinfl": "string"
