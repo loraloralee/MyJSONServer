@@ -22,7 +22,7 @@
     "issueDocDate": "string",
     "expiredDocDate": "string"
   }
-   }},
+   }}
 {"id": 2{
   "user": {
     "token": "string",
