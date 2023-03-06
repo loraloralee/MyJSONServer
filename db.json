@@ -1,9 +1,22 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
-}
+  "user": {
+    "user_id": 0,
+    "passportSeries": "string",
+    "passportNumber": "string",
+    "pinfl": "string",
+    "passportType": 6,
+    "phone": "string",
+    "region": 0,
+    "localRegion": 0,
+    "address": "string",
+    "isAuto": true,
+    "inn": "string",
+    "patronymic": "string",
+    "gender": 1,
+    "name": "string",
+    "surname": "string",
+    "mrz": "string",
+    "birthDate": "string",
+    "issueDocDate": "string",
+    "expiredDocDate": "string"
+  }
